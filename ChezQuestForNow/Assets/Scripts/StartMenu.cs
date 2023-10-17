@@ -22,6 +22,5 @@ public class StartMenu : MonoBehaviour
     public void QuitScene()
     {
         Application.Quit();
-        Debug.Log("Quit the game");
     }
 }
