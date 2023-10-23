@@ -1,5 +1,9 @@
 fileFormatVersion: 2
+<<<<<<<< HEAD:ChezQuestForNow/Assets/Scenes/AbbiTestZone.unity.meta
+guid: 120d35d414a6d9e4783c55487f678646
+========
 guid: e965317db7533714996e0e7be81d1128
+>>>>>>>> origin/main:ChezQuestForNow/Assets/Scenes/StartMenu.unity.meta
 DefaultImporter:
   externalObjects: {}
   userData: 
