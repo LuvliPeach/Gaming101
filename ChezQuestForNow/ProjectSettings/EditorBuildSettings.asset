@@ -9,6 +9,6 @@ EditorBuildSettings:
     path: Assets/Scenes/StartMenu.unity
     guid: e965317db7533714996e0e7be81d1128
   - enabled: 1
-    path: Assets/Scenes/Sceneithink.unity
+    path: Assets/Scenes/Main.unity
     guid: 6a4597f842873b14aa41e4268e59075c
   m_configObjects: {}
