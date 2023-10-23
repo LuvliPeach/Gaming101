@@ -9,7 +9,11 @@ EditorUserSettings:
       value: 5a5757560101590a5d0c0e24427b5d44434e4c7a7b7a23677f2b4565b7b5353a
       flags: 0
     RecentlyUsedSceneGuid-1:
+<<<<<<< HEAD
       value: 5200560550010c0b0e0c5a7211720f44154e1d7e297a2062287c4464b4b33560
+=======
+      value: 0608025356045e5f0f59597143740e444f4e4e2f7c2d713228714c37b3b16660
+>>>>>>> origin/main
       flags: 0
     RecentlyUsedSceneGuid-2:
       value: 555000535c020f03595c547543210e4417164c7b297c7466752c486ab2b7613b
